@@ -15,3 +15,12 @@ single-node Kubernetes cluster on your local machine.
 # -- Assignment --
 # ------------------------------ #
 
+: '
+
+Install Minikube
+
+Run minikube version to verify that Minikube is installed correctly.
+
+
+
+'
