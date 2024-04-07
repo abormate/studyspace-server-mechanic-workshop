@@ -10,3 +10,8 @@ cluster of servers, probably in the cloud. Thats expensive! Minikube is a fantas
 single-node Kubernetes cluster on your local machine.
 
 '
+
+# ------------------------------ #
+# -- Assignment --
+# ------------------------------ #
+
