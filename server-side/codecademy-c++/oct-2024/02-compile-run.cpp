@@ -9,12 +9,15 @@ int main() {
 // ------------------------------- //
 
 /*
-Compile with. 
+Compile with...
 
 g++ <filename>.cpp 
 
-This will output a file called "a.out"
+This will output a file called "a.out" if output file name is not specified
 
+Run artifact file from C++
+
+./a.out
 
 
 
