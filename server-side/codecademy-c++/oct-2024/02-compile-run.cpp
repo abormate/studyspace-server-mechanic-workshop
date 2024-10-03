@@ -22,3 +22,5 @@ Run artifact file from C++
 
 
 */
+
+g++ notes.cpp -o notes
