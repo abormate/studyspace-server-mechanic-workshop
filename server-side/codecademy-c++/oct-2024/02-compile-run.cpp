@@ -24,3 +24,9 @@ Run artifact file from C++
 */
 
 g++ notes.cpp -o notes
+
+/*
+The command above tells C++ to start compiling the C++ file "notes". 
+And then, after compilation is done. A file named "notes" is the output. 
+
+*/
