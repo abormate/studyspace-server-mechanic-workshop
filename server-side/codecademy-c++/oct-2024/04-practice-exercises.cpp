@@ -10,14 +10,19 @@
 
 */
 
-// Hey. I'm learning how to write C++. Apart from this, I also love food and coffee. 
+// Hi, my name is Abe. I'm learning how to write programs with C++. Apart from this, I love food and coffee. 
 
 #include <iostream>
 
 int main() {
-  // comment -- write your first letter initial
-
-
+  // comment --
+  std::cout << "  A  ";
+  std::cout << " A A ";
+  std::cout << "A   A";
+  std::cout << "AAAAA";
+  std::cout << "A   A";
+  std::cout << "A   A";
+  std::cout << "A   A";
 }
 
-
+//
