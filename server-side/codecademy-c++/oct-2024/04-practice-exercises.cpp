@@ -16,13 +16,13 @@
 
 int main() {
   // comment --
-  std::cout << "  A  \n";
-  std::cout << " A A \n";
-  std::cout << "A   A\n";
-  std::cout << "AAAAA\n";
-  std::cout << "A   A\n";
-  std::cout << "A   A\n";
-  std::cout << "A   A\n";
+  std::cout << "  A    BBBB \n";
+  std::cout << " A A   B   B\n";
+  std::cout << "A   A  B   B\n";
+  std::cout << "AAAAA  BBBB \n";
+  std::cout << "A   A  B   B\n";
+  std::cout << "A   A  B   B\n";
+  std::cout << "A   A  BBBB \n";
 }
 
-//
+// Write attempt -- 
