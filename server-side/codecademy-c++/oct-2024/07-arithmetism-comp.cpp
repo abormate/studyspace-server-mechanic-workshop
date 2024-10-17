@@ -33,3 +33,16 @@ score = 4 / 2;
 score = 5 % 2;
 // and now 1
 
+#include <iostream>
+
+int main() {
+
+  int score = 0;
+
+  // Change score here:
+  score = 1234 * 99;
+  
+  
+
+
+}
