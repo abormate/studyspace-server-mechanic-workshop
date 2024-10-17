@@ -35,3 +35,17 @@ For the same code above you can also do:
 int age = 28;
 
 std::cout << "Hello, I am " << age << " years old\n";
+
+// ----------------------------------------- //
+
+
+#include <iostream>
+
+int main() {
+  
+  int score = 0;
+  
+  // Output
+  
+   
+}
