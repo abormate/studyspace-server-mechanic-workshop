@@ -46,3 +46,12 @@ int main() {
 
 
 }
+
+/*
+Compile C++
+g++ math.cpp -o math
+
+Run
+./math
+
+*/
