@@ -42,7 +42,7 @@ int main() {
   // Change score here:
   score = 1234 * 99;
   
-  
+  std::cout << score << "\n";
 
 
 }
