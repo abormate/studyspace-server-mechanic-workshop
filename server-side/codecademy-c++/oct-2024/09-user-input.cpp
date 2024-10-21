@@ -21,3 +21,16 @@ The name cin refers to the standard input stream (pronounced “see-in”, for c
 To see how it works, we have to try it with a program.
 
 */
+
+#include <iostream>
+
+int main() {
+  
+  int tip = 0;
+  
+  std::cout << "Enter tip amount: ";
+  std::cin >> tip;
+  
+  
+  
+}
