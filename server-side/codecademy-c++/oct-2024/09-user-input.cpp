@@ -57,3 +57,12 @@ int main() {
 // ------------------------------------------------------------ //
 
 // Compile and execute code
+
+/*
+bash or zsh
+
+g++ *.cpp -o artifact
+
+./artifact
+
+*/
