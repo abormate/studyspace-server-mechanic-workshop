@@ -53,3 +53,7 @@ int main() {
   std::cout << "You paid " << tip << " dollars. \n";
   
 }
+
+// ------------------------------------------------------------ //
+
+// Compile and execute code
